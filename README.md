@@ -30,3 +30,4 @@ Mycroft AI (@MycroftAI)
 #first-skill
 #hello
 #greeting
+# mycroft_history_skill
